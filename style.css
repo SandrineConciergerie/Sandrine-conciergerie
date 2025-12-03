@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f4f2;
+    margin: 0;
+    color: #333;
+    text-align: center;
+}
+header {
+    background: linear-gradient(to right, #e8aeb7, #f4d6da);
+    padding: 40px 20px;
+}
+.logo {
+    width: 140px;
+}
+.slogan {
+    font-style: italic;
+}
+section {
+    padding: 30px 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 6px 0;
+}
+footer {
+    background: #e8aeb7;
+    padding: 15px;
+    margin-top: 40px;
+}
